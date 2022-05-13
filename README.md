@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatansh
 - 👀 I’m interested in web deploper 
-- 🌱 I’m currently learning b.tech
+- 🌱 I’m currently pursuing b.tech
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 

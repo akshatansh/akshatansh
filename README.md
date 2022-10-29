@@ -5,7 +5,7 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Akshat Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/Akshat">
+<a href="https://twitter.com/Pintusingh2k">
   <img align="left" alt="Akshat ansh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pintu-kumar-a654bb226/">

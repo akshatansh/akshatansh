@@ -43,6 +43,11 @@ Other        30 mins        █▓░░░░░░░░░░░░░░░�
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/akshatansh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>" alt="snake"></center>
+</p>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->

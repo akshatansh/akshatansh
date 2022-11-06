@@ -56,6 +56,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 10 tasks so far           
 ⏳  Longest streak is 5 days😅😅
 <!-- TODO-IST:END -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshatansh&theme=chartreuse-dark&hide_border=true&background=EEA2F4)](https://git.io/streak-stats)
 
 
 

@@ -54,7 +54,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🏆  100 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 10 tasks so far           
-⏳  Longest streak is 5 days😅😅
+⏳  Longest streak is 7 days😅😅
 <!-- TODO-IST:END -->
 [![ AksGitHub Streak](https://streak-stats.demolab.com?user=akshatansh&theme=dark)](https://git.io/streak-stats)
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatansh&theme=dark&show_icons=true)

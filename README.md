@@ -56,8 +56,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 10 tasks so far           
 ⏳  Longest streak is 5 days😅😅
 <!-- TODO-IST:END -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshatansh&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatansh&theme=dark&show_icons=true)
-
+[![ AksGitHub Streak](https://streak-stats.demolab.com?user=akshatansh&theme=dark)](https://git.io/streak-stats)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatansh&theme=dark&show_icons=true)
+<p><img align="40" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatansh&theme=github" /></p>
 
 

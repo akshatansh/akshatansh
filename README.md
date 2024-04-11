@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshatansh4132" target="blank"><img src="https://img.shields.io/twitter/follow/akshatansh4132?logo=twitter&style=for-the-badge" alt="akshatansh4132" /></a> </p>
 
-- 🔭 I’m currently working on [Tech Company Website](fusionbird.tech)
+- 🔭 I’m currently Learning Machine Learning
 
 - 🌱 I’m currently learning **Next.js**
 
